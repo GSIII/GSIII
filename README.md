@@ -2,7 +2,7 @@
 ### 꾸준히 성장하는 웹 개발자 갈서인 입니다.
 
 ![GSIII's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSIII&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSIII&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GSIII&layout=compact&theme=transparent)
 
 ## ✏️Skills
 #### front
